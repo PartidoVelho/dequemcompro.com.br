@@ -1,0 +1,4 @@
+chown -h 1000:1000 './index.html'
+chmod 0664 './index.html'
+/usr/bin/touch -hcmd "2023-05-18 12:50:30.1840921000 -0300" './index.html'
+/usr/bin/touch -hcad "2023-05-18 13:11:48.3518179000 -0300" './index.html'
